@@ -4,6 +4,7 @@ import { useMovies } from "./useMovies";
 import { useLocalStorageState } from "./useLocalStorageState";
 import { useKey } from "./useKey";
 
+// prepared to deployment
 // const tempMovieData = [
 //   {
 //     imdbID: "tt1375666",
